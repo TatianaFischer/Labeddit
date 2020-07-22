@@ -1,2 +1,2 @@
 # Labeddit
-Reddit application simulator
+Reddit application clone
