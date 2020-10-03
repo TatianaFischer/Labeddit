@@ -37,6 +37,11 @@ A proposta do **4eddit** da [Labenu](https://labenu.com.br/) é desenvolver uma 
 
 Este projeto de Front-end Web foi desenvolvido em ReactJS com JS.
 
+Projeto em grupo, devs que contribuiram:
+- Jonathan Machado
+- Késsia Lopes
+- Tatiana Fischer
+
 ---
 
 ## 👨‍💻️ Tecnogias utilizadas
